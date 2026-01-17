@@ -1,0 +1,6 @@
+n = 4
+
+if n >= 0:
+    print("Positive")
+else:
+    print("Negative")
